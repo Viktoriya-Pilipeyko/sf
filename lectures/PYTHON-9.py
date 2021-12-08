@@ -106,3 +106,6 @@ for student, group in students:
     groups[group].append(student)
  
 print(groups)
+
+
+#dict_t_y = dict(sorted(temps, key=lambda x: x[-1], reverse=True))
