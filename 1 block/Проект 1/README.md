@@ -30,6 +30,7 @@
 
 ### Краткая информация о данных
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru за 2018-2019гг.
+[ссылка на датасет](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
   
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
